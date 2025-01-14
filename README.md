@@ -41,8 +41,4 @@ Key objectives of the project included:
 
 ---
 
-## Contact
-For inquiries or collaboration:
-- **Name**: Virendra Bachhhav  
-- **Email**: [virendrabachhav46gmail.com](mailto:your.virendrabachhav46@gmail.com.com)  
-- **GitHub**: [GitHub Profile](https://github.com/yourusername)
+
