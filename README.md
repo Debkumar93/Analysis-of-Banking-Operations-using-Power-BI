@@ -31,15 +31,6 @@ Key objectives of the project included:
 
 ---
 
-## Deliverables
-1. **Power BI Report (`https://github.com/Virendrabachhav/Analysis-of-Banking-Operations-using-PowerBI/blob/main/Banking-Operations-Analysis.pbix`)**:
-   - Interactive dashboards answering key business questions.
-   - Measures and DAX calculations for custom insights.
-2. **Presentation (`https://github.com/Virendrabachhav/Analysis-of-Banking-Operations-using-PowerBI/blob/main/bank%20performance%20analysis.pptx`)**:
-   - Summarized findings and recommendations.
-3. **Screenshots (`/https://github.com/Virendrabachhav/Analysis-of-Banking-Operations-using-PowerBI/blob/main/dashboard%20screenshot.pdf`)**:
-   - Key visuals for a quick overview of insights.
-
 ---
 
 ## Instructions to Access
@@ -47,10 +38,6 @@ Key objectives of the project included:
 2. Navigate through the interactive dashboards to explore insights.
 3. Review the accompanying PowerPoint for a summary of the analysis.
 
----
-
-## About Me
-As a **Data Analyst**, I developed this project to demonstrate my ability to work with complex datasets, derive actionable insights, and communicate findings effectively. This project highlights my proficiency in Power BI, data visualization, and analytical problem-solving.
 
 ---
 
